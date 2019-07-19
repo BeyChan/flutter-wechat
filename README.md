@@ -15,7 +15,7 @@ For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-一般用来做商品标签，价格标签
+flutter小Demo,简单模仿微信界面
 ![][image-1]
 
 [image-1]:    https://github.com/BeyChan/flutter-wechat/blob/master/demo.gif
